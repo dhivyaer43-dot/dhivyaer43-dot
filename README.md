@@ -1,517 +1,342 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:8B5CF6&height=200&section=header&text=Dhivya%20Bharathi%20A&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20UI%2FUX%20Design%20%7C%20Data%20Analytics&descSize=16&descAlignY=62" width="100%" alt="Dhivya Bharathi A Header" />
+</p>
 
-# 👋 Hi, I'm Dhivya Bharathi
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=640&height=42&lines=Hi%20there!%20I'm%20Dhivya%20Bharathi%20A%20%F0%9F%91%8B;AI%20%26%20Data%20Science%20Undergraduate%20%F0%9F%8E%93;UI%2FUX%20Designer%20%F0%9F%8E%A8;Aspiring%20Data%20Analyst%20%F0%9F%93%8A;Designing%20user-centric%20interfaces%20%26%20insights%20%E2%9C%A8" width="100%" style="max-width: 640px;" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=02C39A&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student+%F0%9F%8E%93;UI%2FUX+Designer+%F0%9F%8E%A8;Aspiring+Data+Analyst+%F0%9F%93%8A;Building+at+the+intersection+of+Data+%26+Design+%F0%9F%9A%80;Built+MediSetu+%E2%80%94+AI+Health+Triage+%F0%9F%A9%BA" />
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank" />
+  </a>
+  &nbsp;
+  <a href="mailto:dhivyaer43@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+</p>
 
-<br>
-
-### 🎓 B.Tech AI & Data Science Student  
-### 🎨 UI/UX Designer • 📊 Aspiring Data Analyst • 🤖 AI/ML Enthusiast
-
-<br>
-
-<a href="https://www.linkedin.com/in/dhivyabharathi-a389ba350/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/dhivyaer43-dot">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:dhivyaer43@gmail.com">
-<img src="https://img.shields.io/badge/Email-Reach%20Out-028090?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=dhivyaer43-dot&label=PROFILE%20VIEWS&color=028090&style=for-the-badge">
-
-</div>
-
----
-
-# 🧭 Quick Navigation
-
-<div align="center">
-
-<a href="#-about-me">
-<img src="https://img.shields.io/badge/About%20Me-028090?style=for-the-badge">
-</a>
-
-<a href="#-tech-stack">
-<img src="https://img.shields.io/badge/Tech%20Stack-00A896?style=for-the-badge">
-</a>
-
-<a href="#-featured-projects">
-<img src="https://img.shields.io/badge/Projects-02C39A?style=for-the-badge">
-</a>
-
-<a href="#-experience">
-<img src="https://img.shields.io/badge/Experience-028090?style=for-the-badge">
-</a>
-
-<a href="#-certifications--achievements">
-<img src="https://img.shields.io/badge/Certifications-00A896?style=for-the-badge">
-</a>
-
-<a href="#-github-analytics">
-<img src="https://img.shields.io/badge/GitHub%20Stats-02C39A?style=for-the-badge">
-</a>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-# 🟣 About Me
+<h2 align="center">🟣 About Me</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=640&height=28&lines=Designing+for+people.+Learning+from+data.+Building+with+care." width="100%" style="max-width: 640px;" alt="Typing Quote" />
+</p>
 
-### 🎓 AI & Data Science × 🎨 Design × 📊 Analytics
+<p align="center">
+  Hi! I'm <b>Dhivya Bharathi A</b>, a motivated <b>B.Tech Artificial Intelligence &amp; Data Science student</b> from Tamil Nadu, India.<br />
+  I enjoy designing user-centric interfaces, analyzing data, and building responsive web applications — and I'm looking for internship and placement opportunities where I can apply these skills to real-world projects.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Open_to_Internships-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.Tech_AI_%26_Data_Science-7C3AED?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX_%26_Data_Analytics-111111?style=flat-square" alt="Focus" />
+</p>
 
-I'm **Dhivya Bharathi**, a B.Tech Artificial Intelligence & Data Science student passionate about combining **data, artificial intelligence, and user-centered design** to build meaningful real-world solutions.
+<p align="center">
+  💬 <b>Let's Discuss:</b> UI/UX Design, Figma, Wireframing, Data Analytics, Python &amp; Power BI.<br />
+  🗣️ <b>Languages:</b> Tamil, English
+</p>
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- 🏫 VSB College of Engineering Technical Campus
-- 📈 CGPA: **8.25**
-- 🎨 Hands-on experience in **UI/UX Design**
-- 📊 Interested in **Data Analytics & Data Visualization**
-- 🤖 Exploring **Machine Learning & Applied AI**
-- 🩺 Built **MediSetu**, a multilingual AI health triage assistant
-- 🧩 Currently strengthening **Python, SQL, Power BI & Figma**
-- 🚀 Open to opportunities in **Data Analytics, UI/UX Design & AI/ML**
-
-<br>
-
-> 💚 *"Turning data and design into real-world solutions."*
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-## 🔵 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
-
-<br><br>
-
-## 🟣 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br><br>
-
-## 📊 Data Analytics & AI
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-
-<br><br>
-
-## 🎨 UI/UX Design
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white">
-<img src="https://img.shields.io/badge/Balsamiq-6C4F94?style=for-the-badge">
-<img src="https://img.shields.io/badge/Wireframe.cc-333333?style=for-the-badge">
-
-<br><br>
-
-## 🟢 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
+<table width="100%" border="0" align="center">
 <tr>
-
-<td width="50%" valign="top">
-
-## 🩺 MediSetu
-
-### AI Health Triage Assistant
-
-A voice-first, multilingual AI-powered health triage web application designed for **rural India**.
-
-Developed for the **Prasunethon 2.0 Hackathon**.
-
-### ✨ Key Features
-
-- 🌐 Multilingual support
-- 🎙️ Voice-first interaction
-- 🤖 AI-powered triage
-- 🏥 Healthcare prioritization
-- 📱 User-friendly interface
-- ⚡ Offline-first architecture
-
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript` `Machine Learning` `UI/UX`
-
-<br>
-
-<a href="https://github.com/dhivyaer43-dot/medisetu">
-<img src="https://img.shields.io/badge/🔗%20View%20Repository-028090?style=for-the-badge">
-</a>
-
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🎨 Design Focus</h4>
+  <p><b>Wireframes, Prototypes &amp; UX Case Studies</b><br /><sub>Figma · Adobe XD · Wireframe.cc · Balsamiq</sub></p>
 </td>
-
-<td width="50%" valign="top">
-
-## 🎓 College Students Portal
-
-### UX Case Study
-
-A complete redesign of a college student portal focused on improving the student experience.
-
-### ✨ Process
-
-- 🔍 User Research
-- 📝 Problem Identification
-- 🧩 Information Architecture
-- 🖼️ Wireframing
-- 🎨 High-Fidelity Design
-- 🧪 Usability Testing
-
-### 🛠️ Tools
-
-`Figma` `Wireframing` `Prototyping` `UX Research`
-
-<br>
-
-<img src="https://img.shields.io/badge/🎨%20UX%20Case%20Study-02C39A?style=for-the-badge">
-
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>📊 Data Focus</h4>
+  <p><b>Python, MySQL &amp; Power BI</b><br /><sub>Seaborn · Google Colab</sub></p>
 </td>
-
 </tr>
-
 <tr>
-
-<td width="50%" valign="top">
-
-## 🔍 FindIt
-
-### Lost & Found Mobile App
-
-A mobile application concept helping students report and recover lost items on campus.
-
-### ✨ Design Process
-
-- Low-Fidelity Wireframes
-- User Flow
-- Mobile UI
-- Interactive Prototype
-
-### 🛠️ Tools
-
-`Figma` `Balsamiq` `Mobile App Design`
-
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🌱 Currently Learning</h4>
+  <p><b>Data Structures &amp; Algorithms</b><br /><sub>Generative AI · Cybersecurity fundamentals</sub></p>
 </td>
-
-<td width="50%" valign="top">
-
-## 📅 Campus Events Booking App
-
-### Event Discovery & Booking
-
-A mobile app experience designed for browsing and booking college events with a simple, low-friction user journey.
-
-### ✨ Focus
-
-- Event Discovery
-- Event Details
-- Booking Flow
-- User-Friendly Navigation
-
-### 🛠️ Tools
-
-`Figma` `UI Design` `UX Design`
-
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤝 Collaboration</h4>
+  <p><b>UI/UX, Web &amp; Data Projects</b><br /><sub>Open to internships &amp; new projects</sub></p>
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 💼 Experience
+<h2 align="center">🎓 Education</h2>
 
-<div align="center">
-
-| 🎯 Role | 🏢 Organization | 💡 Focus |
-| :--- | :--- | :--- |
-| 🎨 **UI/UX Design Intern** | **Thiranex** | Wireframing, Prototyping, Usability Testing |
-| 🎨 **UI/UX Design Intern** | **CodeAlpha** | Design Thinking, Wireframing, Prototyping |
-| 💻 **Remote Intern** | **Strategic Knights** | Technical Tasks, Mini Projects |
-
-</div>
-
----
-
-# 🏆 Certifications & Achievements
-
-<div align="center">
-
-| 🏆 Certification | 📜 Organization |
-| :--- | :--- |
-| 📊 Data Analytics Job Simulation | **Deloitte** |
-| 🤖 Data Science Job Simulation | **BCG X** |
-| 💻 Tech Explorer Job Simulation | **Commonwealth Bank** |
-| 📈 Data Analytics Job Simulation | **Quantium** |
-| 📊 Data Visualisation: Empowering Business with Effective Insights | **Tata** |
-| 🔐 Internet Crimes and Cybersecurity | **NPTEL** |
-| 🧩 Data Structures & Algorithms | **Infosys Springboard** |
-| 🤖 ChatGPT & Generative AI | **Udemy** |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=dhivyaer43-dot&show_icons=true&hide_border=true&bg_color=0D1117&title_color=028090&icon_color=00A896&text_color=FFFFFF&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivyaer43-dot&layout=compact&hide_border=true&bg_color=0D1117&title_color=028090&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhivyaer43-dot&hide_border=true&background=0D1117&ring=028090&fire=02C39A&currStreakLabel=00A896&sideLabels=FFFFFF&dates=AAAAAA">
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivyaer43-dot&bg_color=0D1117&color=FFFFFF&line=028090&point=02C39A&area=true&hide_border=true">
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🐍%20Python-Data%20Science-028090?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/📊%20Power%20BI-Data%20Visualization-00A896?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/🎨%20UI%2FUX-Advanced%20Design-02C39A?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/🤖%20Machine%20Learning-Applied%20AI-028090?style=for-the-badge">
-
-</div>
-
-<br>
-
-<div align="center">
-
-| Skill | Current Focus |
-| :--- | :--- |
-| 🐍 **Python** | Data Analysis & Machine Learning |
-| 🗄️ **SQL** | Data Querying & Database Analysis |
-| 📊 **Power BI** | Interactive Dashboards |
-| 🎨 **UI/UX** | Advanced Product Design |
-| 🤖 **Machine Learning** | Applied AI Projects |
-
-</div>
-
----
-
-# 🎯 My Journey
-
-<div align="center">
-
-### 📚 Learn
-⬇️
-### 🎨 Design
-⬇️
-### 📊 Analyze
-⬇️
-### 🚀 Build
-⬇️
-### 🔁 Repeat
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=02C39A&center=true&vCenter=true&width=600&lines=Learning+every+day+%F0%9F%8C%B1;Designing+better+experiences+%F0%9F%8E%A8;Analyzing+meaningful+data+%F0%9F%93%8A;Building+real-world+solutions+%F0%9F%9A%80">
-
-</div>
-
----
-
-# 📌 What I'm Looking For
-
-<div align="center">
-
-### 🚀 Open to Internship Opportunities
-
-<br>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-Open-028090?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-Open-00A896?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/AI%2FML-Open-02C39A?style=for-the-badge">
-
-</div>
-
----
-
-# 💡 What I Bring
-
-<table>
+<table width="100%" border="0" align="center">
 <tr>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**Design**
-
-UI/UX  
-Wireframing  
-Prototyping
-
+<td align="center" style="padding: 20px;">
+  <h3>VSB College of Engineering Technical Campus</h3>
+  <p><b>B.Tech — Artificial Intelligence &amp; Data Science</b><br /><sub>2024 – 2028</sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/CGPA-8.25_(up_to_4th_Semester)-7C3AED?style=for-the-badge&labelColor=0a0a0a" alt="CGPA" />
+  </p>
 </td>
-
-<td align="center" width="25%">
-
-### 📊
-
-**Analytics**
-
-Python  
-SQL  
-Power BI
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI**
-
-Machine Learning  
-Data Science  
-Applied AI
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Build**
-
-Projects  
-Problem Solving  
-Innovation
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-# 🩺 Featured: MediSetu
+<h2 align="center">💼 Internship Experience</h2>
 
-<div align="center">
-
-### Voice-first • Multilingual • AI-powered • Rural Healthcare
-
-<br>
-
-<img src="https://img.shields.io/badge/English-Supported-028090?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Hindi-Supported-00A896?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Tamil-Supported-02C39A?style=for-the-badge">
-
-<br><br>
-
-**Patient Classification**
-
-🏠 Home Care  
-⬇️  
-🏥 PHC Visit  
-⬇️  
-🚨 Emergency
-
-<br><br>
-
-<a href="https://github.com/dhivyaer43-dot/medisetu">
-<img src="https://img.shields.io/badge/Explore%20MediSetu-View%20Project-028090?style=for-the-badge">
-</a>
-
-</div>
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" valign="top" style="padding: 18px;">
+  <h3 align="center">🎨 UI/UX Design Intern</h3>
+  <p align="center"><b>Thiranex</b></p>
+  <ul>
+    <li>Designed low-fidelity and high-fidelity wireframes</li>
+    <li>Created interactive prototypes using Figma</li>
+    <li>Conducted UX case studies and usability testing</li>
+    <li>Improved user experience through design thinking</li>
+  </ul>
+</td>
+<td width="50%" valign="top" style="padding: 18px;">
+  <h3 align="center">💻 Remote Intern</h3>
+  <p align="center"><b>Strategic Knights</b></p>
+  <ul>
+    <li>Completed assigned technical tasks</li>
+    <li>Worked on mini projects</li>
+    <li>Improved teamwork and communication skills</li>
+  </ul>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📬 Let's Connect
+<h2 align="center">🟣 Featured Projects</h2>
 
-<div align="center">
+<p align="center"><i>A collection of mobile app designs, UX case studies, and web work.</i></p>
 
-### 💚 I'm always open to learning, collaborating and building!
+<h3 align="center">🎨 UI/UX Projects</h3>
 
-<br>
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>🔎 FindIt</h4>
+  <p><i>Lost &amp; Found mobile app</i></p>
+  <a href="YOUR_FIGMA_LINK_FINDIT" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Design-Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a0a0a" alt="FindIt Design" />
+  </a>
+</td>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>🎟️ Campus Events Booking</h4>
+  <p><i>Mobile app for discovering and booking campus events</i></p>
+  <a href="YOUR_FIGMA_LINK_CAMPUS_EVENTS" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Design-Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a0a0a" alt="Campus Events Design" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>✅ Student Productivity App</h4>
+  <p><i>Mobile app concept to help students stay organized</i></p>
+  <a href="YOUR_FIGMA_LINK_PRODUCTIVITY" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Design-Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a0a0a" alt="Student Productivity Design" />
+  </a>
+</td>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>🏫 College Students Portal Redesign</h4>
+  <p><i>UX case study</i></p>
+  <a href="YOUR_FIGMA_LINK_PORTAL_REDESIGN" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20Case%20Study-7C3AED?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a0a0a" alt="Portal Redesign Case Study" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>📸 Instagram Mobile App</h4>
+  <p><i>Wireframe</i></p>
+  <a href="YOUR_FIGMA_LINK_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Wireframe-7C3AED?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a0a0a" alt="Instagram Wireframe" />
+  </a>
+</td>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>💬 WhatsApp Mobile App</h4>
+  <p><i>Wireframe</i></p>
+  <a href="YOUR_FIGMA_LINK_WHATSAPP" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Wireframe-7C3AED?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a0a0a" alt="WhatsApp Wireframe" />
+  </a>
+</td>
+</tr>
+</table>
 
-<a href="https://www.linkedin.com/in/dhivyabharathi-a389ba350/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhivya%20Bharathi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<h3 align="center">🌐 Web Development</h3>
 
-<a href="https://github.com/dhivyaer43-dot">
-<img src="https://img.shields.io/badge/GitHub-dhivyaer43--dot-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:dhivyaer43@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dhivyaer43%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-> 💚 **"Turning data and design into real-world solutions."**
-
-<br>
-
-### ⭐ Thanks for visiting my profile!
-
-### Let's Connect • Learn • Build • Grow 🚀
-
-</div>
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 20px;">
+  <h4>🧑‍💻 Personal Resume Portfolio Website</h4>
+  <p><i>A responsive portfolio site showcasing my skills, projects, and experience.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/HTML-0a0a0a?style=flat-square&logo=html5&logoColor=A78BFA" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-0a0a0a?style=flat-square&logo=css3&logoColor=A78BFA" alt="CSS" />
+  </p>
+  <p>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Repo-111111?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=028090&height=120&section=footer"/>
+<p align="center"><b>Programming &amp; Web</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,mysql&theme=dark" width="100%" style="max-width: 320px;" alt="Programming and Web" />
+  </a>
+</p>
 
-</div>
+<p align="center"><b>UI/UX Design</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=A78BFA" alt="Figma" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Adobe_XD-0a0a0a?style=for-the-badge&logo=adobexd&logoColor=A78BFA" alt="Adobe XD" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireframe.cc-0a0a0a?style=for-the-badge&logoColor=A78BFA" alt="Wireframe.cc" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Balsamiq-0a0a0a?style=for-the-badge&logoColor=A78BFA" alt="Balsamiq" />
+</p>
+
+<p align="center"><b>Data Analytics</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=A78BFA" alt="Power BI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Seaborn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Colab-0a0a0a?style=for-the-badge&logo=googlecolab&logoColor=A78BFA" alt="Google Colab" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=A78BFA" alt="MySQL" />
+</p>
+
+<p align="center"><b>Soft Skills</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem_Solving-111111?style=flat-square" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Communication-7C3AED?style=flat-square" alt="Communication" />
+  <img src="https://img.shields.io/badge/Teamwork-111111?style=flat-square" alt="Teamwork" />
+  <img src="https://img.shields.io/badge/Leadership-7C3AED?style=flat-square" alt="Leadership" />
+  <img src="https://img.shields.io/badge/Time_Management-111111?style=flat-square" alt="Time Management" />
+  <img src="https://img.shields.io/badge/Quick_Learner-7C3AED?style=flat-square" alt="Quick Learner" />
+</p>
+
+---
+
+<h2 align="center">📜 Certifications</h2>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td width="33%" align="center" style="padding: 14px;">
+  <h4>🔐 NPTEL</h4>
+  <p><b>Internet Crimes and Cybersecurity</b></p>
+</td>
+<td width="33%" align="center" style="padding: 14px;">
+  <h4>🧠 Infosys Springboard</h4>
+  <p><b>Data Structures &amp; Algorithms</b></p>
+</td>
+<td width="33%" align="center" style="padding: 14px;">
+  <h4>🤖 Udemy</h4>
+  <p><b>ChatGPT &amp; Generative AI</b></p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🧩 Problem Solving</h2>
+
+<p align="center"><i>Building my DSA foundation, one problem at a time.</i></p>
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0a0a0a&title_color=8b5cf6&text_color=f3f4f6&icon_color=8b5cf6&border_color=8b5cf6&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0a0a0a&title_color=8b5cf6&text_color=f3f4f6&border_color=8b5cf6&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether it's a design project, a data problem, or an internship opportunity — my inbox is always open!</i></p>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  <br />
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="mailto:dhivyaer43@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  <br />
+  <sub><b>Direct Collaboration</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+  <br />
+  <sub><b>Code &amp; Projects</b></sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0a0a0a&height=120&section=footer" width="100%" alt="Footer" />
+</p>
+
+
+
+
+
+
+
